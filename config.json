@@ -1,0 +1,27 @@
+{
+    "extension_allowed": [
+        "jpg",
+        "txt",
+        "bin"
+    ],
+    "exclude_path": {
+        "windows": [
+            "Documents",
+            "Videos",
+            "Photos"
+        ],
+        "linux": [
+            "Documents",
+            "Videos",
+            "Photos"
+        ],
+        "*": [
+            "sample_exclude"
+        ]
+    },
+    "credentials": {
+        "password": "theskywareproject",
+        "key": ".. -. -.. --- -. . ... .. .-",
+        "type": "SWSK"
+    }
+}
